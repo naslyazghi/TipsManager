@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/bg_note"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/txt_name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="8dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="30dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:background="@drawable/btnstyle2"
+        android:hint="@string/name"
+        android:textColorHint="#595D7E"
+        android:textColor="#C7CDFA"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:id="@+id/txt_sales"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="8dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="30dp"
+        android:ems="10"
+        android:inputType="number"
+        android:background="@drawable/btnstyle2"
+        android:hint="@string/sales"
+        android:textColorHint="#595D7E"
+        android:textColor="#C7CDFA"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/btn_saveNote"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="40dp"
+        android:text="@string/add"
+        android:textColor="@color/white100"
+        android:background="@drawable/btnstyle1"/>
+</LinearLayout>

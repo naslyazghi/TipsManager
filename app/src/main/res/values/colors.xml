@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name='addNote'>#333535</color>
+    <color name='irishGreen'>#00CD75</color>
+    <color name='Black25'>#40000000</color>
+    <color name='Black50'>#80000000</color>
+    <color name='Black75'>#BE000000</color>
+    <color name='Black100'>#000000</color>
+    <color name='white25'>#40FFFFFF</color>
+    <color name='white50'>#80FFFFFF</color>
+    <color name='white75'>#BFFFFFFF</color>
+    <color name='white100'>#FFFFFF</color>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861424747190",
+    "firebase_url": "https://tipout-manager.firebaseio.com",
+    "project_id": "tipout-manager",
+    "storage_bucket": "tipout-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861424747190:android:a5dca208418bcf988bdc17",
+        "android_client_info": {
+          "package_name": "com.example.tipsmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861424747190-tdhqvhb383t0l11eb0utfg6phof948mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tipsmanager",
+            "certificate_hash": "cfa8efdf5ae515b233fd0bbe77dd2209f060df74"
+          }
+        },
+        {
+          "client_id": "861424747190-kljof9qdaco6gtlnagcn3p28n0jncd2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_xiX8kPeNnR9V9_QQKZcqRp6v-pVK-f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861424747190-kljof9qdaco6gtlnagcn3p28n0jncd2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
